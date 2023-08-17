@@ -1163,18 +1163,6 @@ PrefabInstance:
       value: TreasureSpawnField
       objectReference: {fileID: 0}
     - target: {fileID: 7128220411487376301, guid: fd171c0dd30b7fc44b7e80c34cdb518f, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 21
-      objectReference: {fileID: 0}
-    - target: {fileID: 7128220411487376301, guid: fd171c0dd30b7fc44b7e80c34cdb518f, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 7128220411487376301, guid: fd171c0dd30b7fc44b7e80c34cdb518f, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 7128220411487376301, guid: fd171c0dd30b7fc44b7e80c34cdb518f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -1213,10 +1201,6 @@ PrefabInstance:
     - target: {fileID: 7128220411487376301, guid: fd171c0dd30b7fc44b7e80c34cdb518f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8916881478728511692, guid: fd171c0dd30b7fc44b7e80c34cdb518f, type: 3}
-      propertyPath: m_Enabled
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
