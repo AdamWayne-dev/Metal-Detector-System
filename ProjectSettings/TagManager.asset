@@ -6,11 +6,12 @@ TagManager:
   tags:
   - SpawnField
   - TreasureSpawn
+  - DetectorRay
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Treasure
   - Water
   - UI
   - 
